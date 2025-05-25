@@ -108,6 +108,11 @@ El análisis reveló varios factores clave asociados con la evasión de clientes
 
 *(Reemplaza `URL_A_TU_FOTO_DE_GITHUB_O_AVATAR_GENERICO` con el enlace a tu imagen y `URL_A_TU_PERFIL_DE_GITHUB` con el enlace a tu perfil. Si no tienes una foto, puedes usar el avatar por defecto de GitHub o buscar un placeholder).*
 
+## <a name="persona-desarrolladora-del-proyecto"></a> 👨‍💻 Persona Desarrolladora del Proyecto
+
+| <a href="https://github.com/thecat065" target="_blank"><img src="https://avatars.githubusercontent.com/u/84462727?s=400&u=e1e54489ec1ad20af8034beff9354a122b9e9a79&v=4" width="115" height="115" style="border-radius:50%; object-fit: cover;" alt="Foto de Carlos Victorio"><br><sub>Carlos Victorio 💻</sub></a> |
+| :---: |
+
 ## <a name="agradecimientos"></a> 🙏 Agradecimientos
 *   A Alura y al programa ONE por la oportunidad de participar en este desafío.
 *   Al instructor Wilfredo Rojas por la presentación del desafío.
